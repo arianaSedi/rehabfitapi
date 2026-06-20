@@ -15,3 +15,10 @@ Route::get('/buscar', [EjercicioController::class, 'buscar']);
 
 
 Route::post('/ia/recomendacion', [IAController::class, 'recomendacion']);
+
+// =========================================================================
+// RUTA TEMPORAL DE MANTENIMIENTO — solo para corregir los datos duplicados.
+// Protegida con una clave secreta (variable de entorno MANTENIMIENTO_KEY).
+// BORRAR ESTA RUTA (y el método en el controller) cuando ya no se necesite.
+// =========================================================================
+Route::get('/mantenimiento/reset-ejercicios', [EjercicioController::class, 'resetEjercicios']);

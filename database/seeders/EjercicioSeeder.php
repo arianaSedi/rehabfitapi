@@ -15,7 +15,14 @@ class EjercicioSeeder extends Seeder
 
         foreach ($ejercicios as $ejercicio) {
             unset($ejercicio['id']);
-            Ejercicio::create($ejercicio);
+
+            // updateOrCreate evita duplicados sin importar cuántas veces
+            // se corra el seeder: si ya existe un ejercicio con ese nombre,
+            // lo actualiza en vez de crear uno nuevo.
+            Ejercicio::updateOrCreate(
+                ['nombre' => $ejercicio['nombre']],
+                $ejercicio
+            );
         }
     }
 }

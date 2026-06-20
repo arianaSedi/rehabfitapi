@@ -36,7 +36,9 @@ RUN chmod -R 775 storage bootstrap/cache
 # Render asigna el puerto via la variable de entorno PORT
 EXPOSE 10000
 
-# Migra la base de datos, siembra el catálogo (solo si está vacío) y arranca el servidor
+# Migra la base de datos (crea tablas nuevas si las hay) y arranca el servidor.
+# El seeder de ejercicios NO corre aquí a propósito: ya se sembró una vez.
+# Si necesitas re-sembrar manualmente, usa la pestaña "Shell" de Render:
+#   php artisan db:seed --class=EjercicioSeeder --force
 CMD php artisan migrate --force && \
-    php artisan db:seed --class=EjercicioSeeder --force || true && \
     php artisan serve --host=0.0.0.0 --port=${PORT:-10000}
