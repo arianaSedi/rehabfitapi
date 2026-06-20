@@ -87,46 +87,4 @@ class EjercicioController extends Controller
             'ejercicios' => $resultado,
         ]);
     }
-
-    /**
-     * =========================================================================
-     * RUTA TEMPORAL DE MANTENIMIENTO
-     * Borra todos los ejercicios duplicados y vuelve a sembrar el catálogo
-     * limpio (50 ejercicios, sin duplicados).
-     *
-     * Protegida con una clave secreta para que nadie más pueda llamarla:
-     * agrega MANTENIMIENTO_KEY en las Environment Variables de Render con
-     * un valor que solo tú conozcas, ej: MANTENIMIENTO_KEY=resetea123xyz
-     *
-     * Uso: GET /api/mantenimiento/reset-ejercicios?key=TU_CLAVE_SECRETA
-     *
-     * BORRAR esta ruta y este método cuando ya no se necesite.
-     * =========================================================================
-     */
-    public function resetEjercicios(Request $request)
-    {
-        $claveEsperada = env('MANTENIMIENTO_KEY');
-
-        if (!$claveEsperada || $request->query('key') !== $claveEsperada) {
-            return response()->json([
-                'ok' => false,
-                'mensaje' => 'No autorizado.',
-            ], 403);
-        }
-
-        Ejercicio::truncate();
-
-        \Artisan::call('db:seed', [
-            '--class' => 'EjercicioSeeder',
-            '--force' => true,
-        ]);
-
-        $total = Ejercicio::count();
-
-        return response()->json([
-            'ok' => true,
-            'mensaje' => 'Ejercicios reseteados correctamente.',
-            'total' => $total,
-        ]);
-    }
 }
