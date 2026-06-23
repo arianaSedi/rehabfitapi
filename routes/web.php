@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Artisan;
 
 /*
 |--------------------------------------------------------------------------
@@ -15,6 +16,15 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/actualizar-ejercicios', function () {
+    Artisan::call('db:seed', [
+        '--class' => 'EjercicioSeeder',
+        '--force' => true
+    ]);
+
+    return 'Ejercicios actualizados correctamente';
 });
 
 

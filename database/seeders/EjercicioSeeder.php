@@ -4,11 +4,10 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Seeder;
 use App\Models\Ejercicio;
+use Illuminate\Support\Facades\DB;
 
 class EjercicioSeeder extends Seeder
 {
-   use Illuminate\Support\Facades\DB;
-
     public function run()
     {
         DB::table('ejercicios')->truncate();
