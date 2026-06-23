@@ -8,7 +8,8 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Sentado en una silla, extiende lentamente la rodilla y vuelve a la posición inicial.",
-    "advertencia": "Detente si sientes dolor fuerte."
+    "advertencia": "Detente si sientes dolor fuerte.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204444/ejercicio1.jpg"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "duracionMinutos": 8,
     "repeticiones": 8,
     "descripcion": "Acostado, flexiona la rodilla lentamente con apoyo si es necesario.",
-    "advertencia": "No fuerces el movimiento si hay inflamación o dolor intenso."
+    "advertencia": "No fuerces el movimiento si hay inflamación o dolor intenso.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204446/ejercicio2.png"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "duracionMinutos": 6,
     "repeticiones": 12,
     "descripcion": "Eleva la pierna recta lentamente para fortalecer la zona de la rodilla.",
-    "advertencia": "Mantén el movimiento controlado y sin dolor fuerte."
+    "advertencia": "Mantén el movimiento controlado y sin dolor fuerte.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204444/ejercicio3.png"
   },
   {
     "id": 4,
@@ -41,7 +44,8 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Aprieta el músculo del muslo manteniendo la pierna extendida durante unos segundos.",
-    "advertencia": "No bloquees la rodilla con fuerza excesiva."
+    "advertencia": "No bloquees la rodilla con fuerza excesiva.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204445/ejercicio4.png"
   },
   {
     "id": 5,
@@ -52,7 +56,9 @@
     "duracionMinutos": 6,
     "repeticiones": 10,
     "descripcion": "Desliza el talón hacia los glúteos flexionando la rodilla y regresa lentamente.",
-    "advertencia": "Realiza el movimiento hasta donde sea cómodo."
+    "advertencia": "Realiza el movimiento hasta donde sea cómodo.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204447/ejercicio5.png"
+
   },
   {
     "id": 6,
@@ -63,7 +69,8 @@
     "duracionMinutos": 7,
     "repeticiones": 8,
     "descripcion": "Con apoyo en una silla, flexiona ligeramente las rodillas y vuelve a subir.",
-    "advertencia": "No bajes demasiado ni permitas dolor fuerte."
+    "advertencia": "No bajes demasiado ni permitas dolor fuerte.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204445/ejercicio6.png"
   },
   {
     "id": 7,
@@ -74,7 +81,8 @@
     "duracionMinutos": 4,
     "repeticiones": 10,
     "descripcion": "Mueve el tobillo formando círculos lentos hacia ambos lados.",
-    "advertencia": "Haz movimientos suaves y controlados."
+    "advertencia": "Haz movimientos suaves y controlados.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204441/ejercicio7.png"
   },
   {
     "id": 8,
@@ -85,7 +93,8 @@
     "duracionMinutos": 5,
     "repeticiones": 12,
     "descripcion": "Lleva la punta del pie hacia arriba y luego hacia abajo lentamente.",
-    "advertencia": "No fuerces si hay dolor o hinchazón."
+    "advertencia": "No fuerces si hay dolor o hinchazón.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204431/ejercicio8.png"
   },
   {
     "id": 9,
@@ -96,7 +105,8 @@
     "duracionMinutos": 6,
     "repeticiones": 10,
     "descripcion": "Con apoyo en una silla, eleva los talones y baja lentamente.",
-    "advertencia": "Usa apoyo para evitar perder el equilibrio."
+    "advertencia": "Usa apoyo para evitar perder el equilibrio.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204427/ejercicio9.png"
   },
   {
     "id": 10,
@@ -107,7 +117,8 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Levanta la punta de los pies manteniendo los talones en el suelo.",
-    "advertencia": "Realiza el ejercicio con apoyo si lo necesitas."
+    "advertencia": "Realiza el ejercicio con apoyo si lo necesitas.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204439/ejercicio10.png"
   },
   {
     "id": 11,
@@ -118,7 +129,8 @@
     "duracionMinutos": 5,
     "repeticiones": 6,
     "descripcion": "Apoya las manos en una pared y lleva una pierna atrás para estirar la pantorrilla.",
-    "advertencia": "No rebotes durante el estiramiento."
+    "advertencia": "No rebotes durante el estiramiento.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204443/ejercicio11.png"
   },
   {
     "id": 12,
@@ -129,7 +141,8 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Realiza círculos suaves con los hombros hacia adelante y hacia atrás.",
-    "advertencia": "No eleves demasiado el hombro si causa dolor."
+    "advertencia": "No eleves demasiado el hombro si causa dolor.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204425/ejer12.png"
   },
   {
     "id": 13,
@@ -140,7 +153,8 @@
     "duracionMinutos": 6,
     "repeticiones": 10,
     "descripcion": "Inclina el cuerpo ligeramente y deja que el brazo cuelgue haciendo movimientos suaves.",
-    "advertencia": "El movimiento debe ser relajado, no forzado."
+    "advertencia": "El movimiento debe ser relajado, no forzado.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204438/ejer13.png"
   },
   {
     "id": 14,
@@ -151,7 +165,8 @@
     "duracionMinutos": 6,
     "repeticiones": 8,
     "descripcion": "Eleva el brazo hacia el frente hasta una altura cómoda y baja lentamente.",
-    "advertencia": "Evita pasar del rango sin dolor."
+    "advertencia": "Evita pasar del rango sin dolor.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204422/ejer14.png"
   },
   {
     "id": 15,
@@ -162,7 +177,8 @@
     "duracionMinutos": 6,
     "repeticiones": 8,
     "descripcion": "Eleva el brazo hacia el lado lentamente y vuelve a la posición inicial.",
-    "advertencia": "Detente si aparece dolor punzante."
+    "advertencia": "Detente si aparece dolor punzante.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204437/ejer15.png"
   },
   {
     "id": 16,
@@ -173,7 +189,8 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Lleva suavemente los hombros hacia atrás juntando los omóplatos.",
-    "advertencia": "Mantén la espalda recta y evita tensión en el cuello."
+    "advertencia": "Mantén la espalda recta y evita tensión en el cuello.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204438/ejer16.png"
   },
   {
     "id": 17,
@@ -184,7 +201,8 @@
     "duracionMinutos": 4,
     "repeticiones": 12,
     "descripcion": "Dobla la muñeca hacia abajo lentamente y vuelve a la posición inicial.",
-    "advertencia": "Hazlo sin peso si hay molestia."
+    "advertencia": "Hazlo sin peso si hay molestia.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204421/ejer17.png"
   },
   {
     "id": 18,
@@ -195,7 +213,8 @@
     "duracionMinutos": 4,
     "repeticiones": 12,
     "descripcion": "Dobla la muñeca hacia arriba lentamente y vuelve a la posición inicial.",
-    "advertencia": "No fuerces el rango de movimiento."
+    "advertencia": "No fuerces el rango de movimiento.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204426/ejer18.png"
   },
   {
     "id": 19,
@@ -206,7 +225,8 @@
     "duracionMinutos": 4,
     "repeticiones": 10,
     "descripcion": "Realiza círculos suaves con la muñeca hacia ambos lados.",
-    "advertencia": "Evita movimientos bruscos."
+    "advertencia": "Evita movimientos bruscos.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204411/ejer19.png"
   },
   {
     "id": 20,
@@ -217,21 +237,11 @@
     "duracionMinutos": 4,
     "repeticiones": 15,
     "descripcion": "Abre y cierra la mano lentamente para mejorar movilidad.",
-    "advertencia": "Detente si hay dolor fuerte o rigidez excesiva."
+    "advertencia": "Detente si hay dolor fuerte o rigidez excesiva.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204426/ejer20.png"
   },
   {
     "id": 21,
-    "nombre": "Toque de dedos",
-    "zona": "Mano",
-    "nivel": "Baja",
-    "posicion": "Sentado",
-    "duracionMinutos": 5,
-    "repeticiones": 10,
-    "descripcion": "Toca con el pulgar la punta de cada dedo de la misma mano.",
-    "advertencia": "Hazlo despacio y sin forzar las articulaciones."
-  },
-  {
-    "id": 22,
     "nombre": "Presión suave con pelota",
     "zona": "Mano",
     "nivel": "Media",
@@ -239,10 +249,11 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Aprieta suavemente una pelota blanda y suelta lentamente.",
-    "advertencia": "Usa una pelota suave y evita dolor fuerte."
+    "advertencia": "Usa una pelota suave y evita dolor fuerte.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204424/ejer21.png"
   },
   {
-    "id": 23,
+    "id": 22,
     "nombre": "Flexión de codo",
     "zona": "Brazo",
     "nivel": "Baja",
@@ -250,21 +261,11 @@
     "duracionMinutos": 5,
     "repeticiones": 12,
     "descripcion": "Dobla el codo llevando la mano hacia el hombro y baja lentamente.",
-    "advertencia": "Realiza el ejercicio sin peso al inicio."
+    "advertencia": "Realiza el ejercicio sin peso al inicio.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204409/ejer22.png"
   },
   {
-    "id": 24,
-    "nombre": "Extensión de codo",
-    "zona": "Brazo",
-    "nivel": "Baja",
-    "posicion": "Sentado",
-    "duracionMinutos": 5,
-    "repeticiones": 12,
-    "descripcion": "Estira el codo lentamente y vuelve a flexionarlo.",
-    "advertencia": "No bloquees el codo con fuerza."
-  },
-  {
-    "id": 25,
+    "id": 23,
     "nombre": "Pronación y supinación",
     "zona": "Brazo",
     "nivel": "Baja",
@@ -272,10 +273,11 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Gira el antebrazo mostrando la palma hacia arriba y luego hacia abajo.",
-    "advertencia": "Mantén el codo pegado al cuerpo."
+    "advertencia": "Mantén el codo pegado al cuerpo.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204420/ejer23.png"
   },
   {
-    "id": 26,
+    "id": 24,
     "nombre": "Marcha sentada",
     "zona": "Pierna",
     "nivel": "Baja",
@@ -283,21 +285,11 @@
     "duracionMinutos": 5,
     "repeticiones": 12,
     "descripcion": "Sentado, eleva una rodilla y luego la otra como si caminaras.",
-    "advertencia": "Mantén la espalda apoyada si lo necesitas."
+    "advertencia": "Mantén la espalda apoyada si lo necesitas.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204419/ejer24.png"
   },
   {
-    "id": 27,
-    "nombre": "Abducción de cadera sentado",
-    "zona": "Pierna",
-    "nivel": "Baja",
-    "posicion": "Sentado",
-    "duracionMinutos": 6,
-    "repeticiones": 10,
-    "descripcion": "Separa lentamente una pierna hacia el lado y vuelve al centro.",
-    "advertencia": "Evita movimientos rápidos."
-  },
-  {
-    "id": 28,
+    "id": 25,
     "nombre": "Elevación lateral de pierna",
     "zona": "Pierna",
     "nivel": "Media",
@@ -305,10 +297,11 @@
     "duracionMinutos": 7,
     "repeticiones": 10,
     "descripcion": "Acostado de lado, eleva la pierna superior y baja con control.",
-    "advertencia": "Mantén el movimiento dentro de un rango cómodo."
+    "advertencia": "Mantén el movimiento dentro de un rango cómodo.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204416/ejer25.png"
   },
   {
-    "id": 29,
+    "id": 26,
     "nombre": "Puente básico",
     "zona": "Pierna",
     "nivel": "Media",
@@ -316,21 +309,11 @@
     "duracionMinutos": 7,
     "repeticiones": 8,
     "descripcion": "Acostado boca arriba con rodillas dobladas, eleva la pelvis lentamente.",
-    "advertencia": "No arquees demasiado la espalda."
+    "advertencia": "No arquees demasiado la espalda.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204404/ejer26.png"
   },
   {
-    "id": 30,
-    "nombre": "Deslizamiento lateral de pierna",
-    "zona": "Pierna",
-    "nivel": "Baja",
-    "posicion": "Acostado",
-    "duracionMinutos": 6,
-    "repeticiones": 10,
-    "descripcion": "Desliza una pierna hacia el lado sobre la cama y vuelve al centro.",
-    "advertencia": "Haz el movimiento lento y controlado."
-  },
-  {
-    "id": 31,
+    "id": 27,
     "nombre": "Inclinación pélvica",
     "zona": "Espalda",
     "nivel": "Baja",
@@ -338,10 +321,11 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Contrae suavemente el abdomen llevando la zona lumbar hacia la superficie.",
-    "advertencia": "No contengas la respiración."
+    "advertencia": "No contengas la respiración.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204400/ejer27.png"
   },
   {
-    "id": 32,
+    "id": 28,
     "nombre": "Rodillas al pecho",
     "zona": "Espalda",
     "nivel": "Baja",
@@ -349,10 +333,11 @@
     "duracionMinutos": 6,
     "repeticiones": 8,
     "descripcion": "Lleva una rodilla hacia el pecho suavemente y mantén unos segundos.",
-    "advertencia": "No tires con fuerza de la pierna."
+    "advertencia": "No tires con fuerza de la pierna.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204409/ejer28.png"
   },
   {
-    "id": 33,
+    "id": 29,
     "nombre": "Gato y camello",
     "zona": "Espalda",
     "nivel": "Baja",
@@ -360,21 +345,11 @@
     "duracionMinutos": 6,
     "repeticiones": 10,
     "descripcion": "Arquea y redondea la espalda lentamente coordinando la respiración.",
-    "advertencia": "Evita movimientos bruscos."
+    "advertencia": "Evita movimientos bruscos.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204406/ejer29.png"
   },
   {
-    "id": 34,
-    "nombre": "Rotación lumbar suave",
-    "zona": "Espalda",
-    "nivel": "Baja",
-    "posicion": "Acostado",
-    "duracionMinutos": 6,
-    "repeticiones": 8,
-    "descripcion": "Con rodillas dobladas, deja caer ambas piernas suavemente hacia un lado y luego al otro.",
-    "advertencia": "Mantén los hombros apoyados y no fuerces."
-  },
-  {
-    "id": 35,
+    "id": 30,
     "nombre": "Extensión lumbar suave",
     "zona": "Espalda",
     "nivel": "Media",
@@ -382,10 +357,11 @@
     "duracionMinutos": 5,
     "repeticiones": 8,
     "descripcion": "Apoya los antebrazos y eleva suavemente el pecho manteniendo la pelvis apoyada.",
-    "advertencia": "Detente si aumenta el dolor lumbar."
+    "advertencia": "Detente si aumenta el dolor lumbar.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204410/ejer30.png"
   },
   {
-    "id": 36,
+    "id": 31,
     "nombre": "Flexión de cuello",
     "zona": "Cuello",
     "nivel": "Baja",
@@ -393,10 +369,11 @@
     "duracionMinutos": 4,
     "repeticiones": 8,
     "descripcion": "Inclina lentamente la cabeza hacia adelante y vuelve al centro.",
-    "advertencia": "Evita movimientos rápidos."
+    "advertencia": "Evita movimientos rápidos.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204402/ejer31.png"
   },
   {
-    "id": 37,
+    "id": 32,
     "nombre": "Rotación de cuello",
     "zona": "Cuello",
     "nivel": "Baja",
@@ -404,21 +381,11 @@
     "duracionMinutos": 4,
     "repeticiones": 8,
     "descripcion": "Gira la cabeza suavemente hacia un lado y luego hacia el otro.",
-    "advertencia": "No fuerces si hay mareo o dolor fuerte."
+    "advertencia": "No fuerces si hay mareo o dolor fuerte.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204400/ejer32.png"
   },
   {
-    "id": 38,
-    "nombre": "Inclinación lateral de cuello",
-    "zona": "Cuello",
-    "nivel": "Baja",
-    "posicion": "Sentado",
-    "duracionMinutos": 4,
-    "repeticiones": 8,
-    "descripcion": "Inclina la cabeza llevando la oreja hacia el hombro sin levantar el hombro.",
-    "advertencia": "Hazlo lentamente y sin dolor fuerte."
-  },
-  {
-    "id": 39,
+    "id": 33,
     "nombre": "Retracción cervical",
     "zona": "Cuello",
     "nivel": "Baja",
@@ -426,10 +393,11 @@
     "duracionMinutos": 5,
     "repeticiones": 10,
     "descripcion": "Lleva suavemente la barbilla hacia atrás como haciendo papada y vuelve al centro.",
-    "advertencia": "No inclines la cabeza hacia arriba."
+    "advertencia": "No inclines la cabeza hacia arriba.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204398/ejer33.png"
   },
   {
-    "id": 40,
+    "id": 34,
     "nombre": "Respiración diafragmática",
     "zona": "General",
     "nivel": "Baja",
@@ -437,21 +405,11 @@
     "duracionMinutos": 5,
     "repeticiones": 8,
     "descripcion": "Respira lentamente llevando el aire hacia el abdomen y exhala con calma.",
-    "advertencia": "Detente si sientes mareo."
+    "advertencia": "Detente si sientes mareo.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204400/ejer34.png"
   },
   {
-    "id": 41,
-    "nombre": "Movilidad general sentada",
-    "zona": "General",
-    "nivel": "Baja",
-    "posicion": "Sentado",
-    "duracionMinutos": 8,
-    "repeticiones": 10,
-    "descripcion": "Combina movimientos suaves de hombros, brazos, piernas y tobillos sentado.",
-    "advertencia": "Ideal para iniciar con baja movilidad."
-  },
-  {
-    "id": 42,
+    "id": 35,
     "nombre": "Transferencia sentado a de pie",
     "zona": "Pierna",
     "nivel": "Media",
@@ -459,10 +417,11 @@
     "duracionMinutos": 8,
     "repeticiones": 6,
     "descripcion": "Desde una silla estable, levántate lentamente y vuelve a sentarte con control.",
-    "advertencia": "Usa apoyo si tienes problemas de equilibrio."
+    "advertencia": "Usa apoyo si tienes problemas de equilibrio.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204408/ejer35.png"
   },
   {
-    "id": 43,
+    "id": 36,
     "nombre": "Paso lateral asistido",
     "zona": "Pierna",
     "nivel": "Media",
@@ -470,21 +429,11 @@
     "duracionMinutos": 6,
     "repeticiones": 8,
     "descripcion": "Con apoyo, da pasos laterales cortos hacia un lado y luego regresa.",
-    "advertencia": "Realízalo cerca de una pared o silla estable."
+    "advertencia": "Realízalo cerca de una pared o silla estable.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204396/ejer36.png"
   },
   {
-    "id": 44,
-    "nombre": "Equilibrio con apoyo",
-    "zona": "General",
-    "nivel": "Media",
-    "posicion": "De pie",
-    "duracionMinutos": 5,
-    "repeticiones": 6,
-    "descripcion": "De pie junto a una silla, intenta mantener el equilibrio unos segundos.",
-    "advertencia": "No lo hagas sin apoyo si tienes riesgo de caída."
-  },
-  {
-    "id": 45,
+    "id": 37,
     "nombre": "Estiramiento de isquiotibiales",
     "zona": "Pierna",
     "nivel": "Baja",
@@ -492,10 +441,11 @@
     "duracionMinutos": 5,
     "repeticiones": 6,
     "descripcion": "Extiende una pierna al frente e inclina suavemente el tronco hacia adelante.",
-    "advertencia": "No rebotes durante el estiramiento."
+    "advertencia": "No rebotes durante el estiramiento.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204395/ejer37.png"
   },
   {
-    "id": 46,
+    "id": 38,
     "nombre": "Estiramiento de muñeca hacia atrás",
     "zona": "Muñeca",
     "nivel": "Baja",
@@ -503,32 +453,11 @@
     "duracionMinutos": 4,
     "repeticiones": 6,
     "descripcion": "Con la mano extendida, lleva suavemente los dedos hacia atrás con ayuda de la otra mano.",
-    "advertencia": "El estiramiento debe ser suave."
+    "advertencia": "El estiramiento debe ser suave.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204397/ejer38.png"
   },
   {
-    "id": 47,
-    "nombre": "Estiramiento de dedos",
-    "zona": "Mano",
-    "nivel": "Baja",
-    "posicion": "Sentado",
-    "duracionMinutos": 4,
-    "repeticiones": 8,
-    "descripcion": "Extiende los dedos de la mano y relaja lentamente.",
-    "advertencia": "No fuerces si hay rigidez o inflamación."
-  },
-  {
-    "id": 48,
-    "nombre": "Apretar omóplatos",
-    "zona": "Espalda",
-    "nivel": "Baja",
-    "posicion": "Sentado",
-    "duracionMinutos": 5,
-    "repeticiones": 10,
-    "descripcion": "Junta suavemente los omóplatos manteniendo el cuello relajado.",
-    "advertencia": "No eleves los hombros hacia las orejas."
-  },
-  {
-    "id": 49,
+    "id": 39,
     "nombre": "Elevación de brazos asistida",
     "zona": "Hombro",
     "nivel": "Baja",
@@ -536,10 +465,11 @@
     "duracionMinutos": 6,
     "repeticiones": 8,
     "descripcion": "Con ayuda del otro brazo, eleva lentamente el brazo afectado hasta donde sea cómodo.",
-    "advertencia": "No superar el rango sin dolor."
+    "advertencia": "No superar el rango sin dolor.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204395/ejer39.png"
   },
   {
-    "id": 50,
+    "id": 40,
     "nombre": "Caminata suave en casa",
     "zona": "General",
     "nivel": "Baja",
@@ -547,6 +477,7 @@
     "duracionMinutos": 10,
     "repeticiones": 1,
     "descripcion": "Camina lentamente en un espacio seguro durante algunos minutos.",
-    "advertencia": "Usa apoyo si lo necesitas y detente si sientes mareo o dolor fuerte."
-  }
+    "advertencia": "Usa apoyo si lo necesitas y detente si sientes mareo o dolor fuerte.",
+    "imagen": "https://res.cloudinary.com/dhihvxsrx/image/upload/v1782204396/ejercicio40.png"
+}
 ]

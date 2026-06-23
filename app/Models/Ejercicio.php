@@ -17,7 +17,8 @@ class Ejercicio extends Model
         'duracionMinutos',
         'repeticiones',
         'descripcion',
-        'advertencia'
+        'advertencia',
+        'imagen'
     ];
 }
 
@@ -47,6 +48,7 @@ return new class extends Migration
 
             $table->text('descripcion');
             $table->text('advertencia');
+            $table->string('imagen')->nullable();
 
             $table->timestamps();
         });

@@ -29,6 +29,7 @@ class EjercicioController extends Controller
             'repeticiones' => 'required|integer',
             'descripcion' => 'required|string',
             'advertencia' => 'required|string',
+            'imagen' => 'nullable|url',
         ]);
 
         $ejercicio = Ejercicio::create($request->all());
